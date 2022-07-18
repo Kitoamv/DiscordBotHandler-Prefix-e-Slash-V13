@@ -1,8 +1,8 @@
 1. Ir no terminal e colocar:
 
 npm i discord.js@13.9.0
-npm i chalk@4.1.2
-npm i dotenv
+ chalk@4.1.2
+ dotenv
 
 2. Ir em config.js e seguir as instruções
 
